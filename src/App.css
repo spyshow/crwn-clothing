@@ -2,3 +2,9 @@ body {
   font-family: "Roboto", sans-serif;
   padding: 20px 60px;
 }
+
+a,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
